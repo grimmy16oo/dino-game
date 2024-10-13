@@ -1,0 +1,8 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+#board{
+    background-color: rgb(33, 36, 66);
+    border-bottom: 5px solid rgb(122, 122, 254);
+}
